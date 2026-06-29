@@ -3,6 +3,9 @@
 __pycache__/
 *.pyc
 
+# Arquivos internos do Claude Code
+CLAUDE.md
+
 # Dados sensíveis e PDFs
 banco_elsi/*
 papers/
