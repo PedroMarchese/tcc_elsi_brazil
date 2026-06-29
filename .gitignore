@@ -5,6 +5,7 @@ __pycache__/
 
 # Arquivos internos do Claude Code
 CLAUDE.md
+ROTEIRO_TCC.md
 
 # Dados sensíveis e PDFs
 banco_elsi/*
