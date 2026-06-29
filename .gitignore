@@ -1,0 +1,11 @@
+# Ambiente virtual e cache do Python
+.venv/
+__pycache__/
+*.pyc
+
+# Dados sensíveis e PDFs
+banco_elsi/*
+papers/
+
+# Tabelas exportadas
+tables/*

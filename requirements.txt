@@ -1,0 +1,13 @@
+# Dependências da análise estatística do TCC ELSI (wave 2).
+# Recomendado: Python 3.13 (melhor suporte a wheels que a 3.14).
+#   py -3.13 -m venv .venv
+#   .venv\Scripts\activate
+#   pip install -r requirements.txt
+pandas>=2.2
+numpy>=1.26
+scipy>=1.13
+scikit-learn>=1.4
+statsmodels>=0.14
+matplotlib>=3.8
+seaborn>=0.13
+openpyxl>=3.1
